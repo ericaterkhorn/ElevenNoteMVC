@@ -4,3 +4,14 @@ C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\obj\Debug\ElevenNote.M
 C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\Elasticsearch.Net.dll
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\Nest.dll
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\System.Buffers.dll
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\Elasticsearch.Net.pdb
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\Elasticsearch.Net.xml
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\Nest.pdb
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\Nest.xml
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\System.Buffers.xml
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ElevenFiftyProjects\ElevenNoteWebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
