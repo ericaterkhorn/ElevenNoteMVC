@@ -42,6 +42,7 @@ namespace ElevenNote.WebMVC.Controllers
                 return RedirectToAction("Index");
             };
 
+            ModelState.AddModelError("", "Note could not be created.");
             return View(model);
         }
 
